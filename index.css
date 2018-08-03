@@ -1,0 +1,303 @@
+.barstyle {
+  background-color: #4747d1;
+  position:fixed;
+  width:100%;
+  top:0;
+  left:0;
+  height: 65px;
+}
+
+.barfont {
+  font: 20px arial, sans-serif;
+  left: 10px;
+  top: 5px;
+  color: white;
+  margin-left: 15px;
+}
+
+.formbody {
+  width: 750px;
+  height: 520px;
+  border-radius: 3px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  border-left: 1px solid #d9d9d9;
+  border-top: 1px solid #d9d9d9;
+  border-right: 1px solid #d9d9d9;
+  border-bottom: 2px solid #8c8c8c;
+}
+
+.formtitle {
+  margin-top: 35px;
+  font: 20px arial, sans-serif;
+  text-indent: 20px;
+}
+
+.angver {
+  margin-top: 30px;
+  font: 14px arial, sans-serif;
+  text-indent: 20px;
+}
+
+.dropdownbtn {
+  display: inline-block;
+  width: 200px;
+  height: 50px;
+  margin-top: 5px;
+  border: 1px solid #d9d9d9;
+  margin-left: 20px;
+  border-radius: 5px;
+  font: 14px arial, sans-serif;
+  line-height: 8px;
+}
+
+.appcomp {
+    margin-top: 40px;
+    font: 14px arial, sans-serif;
+    text-indent: 20px;
+}
+
+.appbtnleft {
+     display: inline-block;
+     font-size: 15px;
+     text-align: center;
+     color: grey;
+     width: 80px;
+     height: 35px;
+     margin-top: 5px;
+     border-left: 1px solid #d9d9d9;
+     border-top: 1px solid #d9d9d9;
+     border-bottom: 2px solid #8c8c8c;
+     border-right: none;
+     margin-left: 20px;
+     opacity: 0.6;
+     margin-right: -40x;
+     line-height: 32px;
+     cursor: pointer;
+ }
+
+.appbtnleft1 {
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    width: 80px;
+    height: 35px;
+    margin-top: 5px;
+    border-left: 1px solid #d9d9d9;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 2px solid #8c8c8c;
+    border-right: none;
+    margin-left: 20px;
+    opacity: 0.6;
+    margin-right: -40x;
+    line-height: 32px;s
+    cursor: pointer;
+    background-color: darkgrey;
+}
+
+.appbtnmid {
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+    color: grey;
+    width: 80px;
+    height: 35px;
+    margin-top: 5px;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 2px solid #8c8c8c;
+    border-left: none;
+    border-right: none;
+    opacity: 0.6;
+    margin-left: 0px;
+    line-height: 32px;
+    cursor: pointer;
+}
+
+.appbtnmid1 {
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    width: 80px;
+    height: 35px;
+    margin-top: 5px;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 2px solid #8c8c8c;
+    border-left: none;
+    border-right: none;
+    opacity: 0.6;
+    margin-left: 0px;
+    line-height: 32px;
+    cursor: pointer;
+    background-color: darkgrey;
+}
+
+.appbtnright {
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+    color: grey;
+    width: 80px;
+    height: 35px;
+    margin-top: 5px;
+    border-right: 1px solid #d9d9d9;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 2px solid #8c8c8c;
+    border-left: none;
+    margin-left: 0px;
+    opacity: 0.6;
+    line-height: 32px;
+    cursor: pointer;
+}
+
+.appbtnright1 {
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    width: 80px;
+    height: 35px;
+    margin-top: 5px;
+    border-right: 1px solid #d9d9d9;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 2px solid #8c8c8c;
+    border-left: none;
+    margin-left: 0px;
+    opacity: 0.6;
+    line-height: 32px;
+    cursor: pointer;
+    background-color: darkgrey;
+}
+
+.ngu {
+    margin-top: 18px;
+    font: 14px arial, sans-serif;
+    text-indent: 20px;
+}
+
+.chkboxxx {
+    width: 18px;
+    height: 18px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+.versiona {
+    display: inline-block;
+    font: 14px arial, sans-serif;
+}
+
+.versionopt {
+    padding: 5px;
+}
+
+.chkbox {
+    font: 14px arial, sans-serif;
+    margin-left: 15px;
+    zoom: 1.6;
+}
+
+.pkgbtnleft {
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+    color: grey;
+    width: 60px;
+    height: 35px;
+    margin-top: 5px;
+    border-left: 1px solid #d9d9d9;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 2px solid #8c8c8c;
+    border-right: none;
+    margin-left: 20px;
+    opacity: 0.6;
+    margin-right: -40x;
+    line-height: 32px;
+    cursor: pointer;
+}
+
+.pkgbtnleft1 {
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    width: 60px;
+    height: 35px;
+    margin-top: 5px;
+    border-left: 1px solid #d9d9d9;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 2px solid #8c8c8c;
+    border-right: none;
+    margin-left: 20px;
+    opacity: 0.6;
+    margin-right: -40x;
+    line-height: 32px;
+    cursor: pointer;
+    background-color: darkgrey;
+}
+
+.pkgbtnright {
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+    color: grey;
+    width: 60px;
+    height: 35px;
+    margin-top: 5px;
+    border-right: 1px solid #d9d9d9;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 2px solid #8c8c8c;
+    border-left: none;
+    margin-left: 0px;
+    opacity: 0.6;
+    line-height: 32px;
+    cursor: pointer;
+}
+
+.pkgbtnright1 {
+    display: inline-block;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    width: 60px;
+    height: 35px;
+    margin-top: 5px;
+    border-right: 1px solid #d9d9d9;
+    border-top: 1px solid #d9d9d9;
+    border-bottom: 2px solid #8c8c8c;
+    border-left: none;
+    margin-left: 0px;
+    opacity: 0.6;
+    line-height: 32px;
+    cursor: pointer;
+    background-color: darkgrey;
+}
+
+.btnshow {
+    display: block;
+    background-color: #4747d1;
+    height: 35px;
+    width: 190px;
+    margin-left: 8px;
+    margin-top: 18px;
+}
+
+.btnshowfont {
+    font: 15px arial, sans-serif;
+    left: 10px;
+    top: 5px;
+    color: white;
+}
+
+.pkgmanage {
+    margin-top: 30px;
+    font: 14px arial, sans-serif;
+    text-indent: 20px;
+}
+
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px) {  }
